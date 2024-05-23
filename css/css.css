@@ -1,0 +1,244 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #44d7a8;
+}
+body img{
+    height: 714px;
+    width: 1848px;
+}
+header h1{
+    text-align: center;
+    padding:10px;
+    background-color:#44d7a8;
+    font-size:xx-large;
+    margin: 0px;
+}
+header h1 img {
+    display: block;
+    margin: 5px auto;
+    width: 500px;
+    height: 100px;
+}
+nav {
+    text-align: center;
+    background-color:#367588 ;
+    font-size: x-large;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    background-color:#44d7a8;
+}
+header h2 {
+    text-align: center;
+    padding:10px;
+    background-color:#44d7a8;
+    font-size:xx-large;
+    margin: 0px;
+}
+
+header h2 img {
+    display: block;
+    margin: 5px auto;
+    width: 500px;
+    height: 100px;
+}
+.content1{
+    font-size:xx-large;
+    font-style: oblique;
+    font-weight:800;
+    text-align:center;
+    background-color:#44d7a8;
+
+}
+.content1 img{
+    height: 900px;
+}
+main{
+    background-color: #44d7a8;
+    text-align: center;
+
+}
+main img{
+    height: 500px;
+    width: 1850px;
+}
+.button1{
+    text-align: center;
+    font-size: xx-large;
+}
+.content2{
+    background-color:#44d7a8;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+}
+header h3 {
+    text-align: center;
+    padding:10px;
+    background-color:#44d7a8;
+    font-size:xx-large;
+    margin: 0px;
+}
+header h3 img {
+    display: block;
+    margin: 5px auto;
+    width: 500px;
+    height: 100px;
+
+}
+.image1{
+    height: 50px;
+    width: 50px;
+}
+.content3{
+   font-weight: 600;
+   font-size: xx-large;
+   text-align: center;
+   background-color:rgb(83, 157, 126);
+   padding: 10px;
+}
+header h4 {
+    text-align: center;
+    padding:10px;
+    background-color:#44d7a8;
+    font-size:xx-large;
+    margin: 0px;
+}
+header h4 img {
+    display: block;
+    margin: 5px auto;
+    width: 500px;
+    height: 100px;
+
+}
+.content4-container {
+    display: flex;
+    align-items: center; 
+}
+
+.image1 {
+    margin-left: 30px; 
+    width: 750px;
+    height: 300px;
+}  
+.content4 {
+    margin-left: 10px;
+    text-align:inherit;
+    font-size: xx-large;
+    font-weight: 800;
+}
+
+header h5{
+    text-align: center;
+    padding:10px;
+    background-color:#44d7a8;
+    font-size:xx-large;
+    margin: 0px;
+}
+header h5 img {
+    display: block;
+    margin: 5px auto;
+    width: 500px;
+    height: 100px;
+}
+
+.content6{
+    font-size:xx-large;
+    font-weight: 600;
+    padding-left:10px;
+}
+
+.content7-container {
+    display: flex;
+    align-items: center; 
+}
+
+.image2 {
+    margin-left: 20px; 
+    width: 1500px;
+    height: 500px;
+}  
+
+.content7 {
+    margin-left: 20px; 
+    text-align: left; 
+    font-size: xx-large;
+    font-weight: 800;
+    max-width: calc(100% - 635px); 
+}
+.Offers{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+
+}
+.content9{
+    font-size: xx-large;
+    font-weight: 600;
+    margin-left: 10px;
+    background-color:grey;
+}
+.content9 img{
+    height: 500px;
+    width: 800px;
+    
+}
+.Offers2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.content10{
+    font-size: xx-large;
+    font-weight: 600;
+    margin-left: 10px;
+    background-color:grey;
+}
+.Offers3{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.content11{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.content12{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.image4{
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    font-size: xx-large;
+}
+.content13{
+    font-size: xx-large;
+    font-weight: 700;
+    margin-top: 300px;
+}
+.content14{
+    text-align: center;
+    font-weight: 700;
+    font-size: xx-large;
+}
